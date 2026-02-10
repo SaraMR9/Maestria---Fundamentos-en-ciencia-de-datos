@@ -1,11 +1,11 @@
-# 20260207 Proyecto Final
+# Final Project
 
 ## Overview
 This project focuses on performing Exploratory Data Analysis (EDA) using both manual and automatic methods. The analysis is conducted on datasets stored in the `data/raw` directory, with processed data saved in the `data/processed` directory. The results, including visualizations and reports, are organized in the `reports/figures` directory.
 
 ## Project Structure
 - **notebooks/**: Contains Jupyter notebooks for analysis.
-  - `20260207 Proyecto final.ipynb`: Main notebook for EDA tasks.
+  - `20260207_Final_Project.ipynb`: Main notebook for EDA tasks.
   
 - **src/**: Source code for data processing and EDA.
   - `data_processing.py`: Data cleaning and preprocessing functions.
