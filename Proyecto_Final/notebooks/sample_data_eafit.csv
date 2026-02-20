@@ -1,0 +1,501 @@
+Semestre,Código Materia,Nombre Materia,Escuela,first_semester,Lab,Pre_registro,tasa_reprobación_lag,Total_Inscritos,%_Cupos_No_Usados,G_Abiertos,G_Final,missing_prereg
+2025-1,FI0155,Instrumen. Financ. Derivados,"E.Finanzas, Economía, Gobierno",0,0,59.0,0.0299,51,0.15,1,1,0
+2022-2,CS0224,Marketing Político,Escuela de Artes y Humanidades,0,0,0.0,0.0714,15,0.5,1,1,1
+2023-2,ME0245,Estrategias de Mercadeo Dig.,Escuela de Administración,0,0,109.0,0.0076,107,0.01,1,1,0
+2024-2,CO0220,Impto. de Renta y Complement.,Escuela de Administración,0,0,7.0,0.0,5,0.8,1,1,0
+2023-2,CM0936,Álgebra en Ciencs. de los Dat.,E Ciencias Aplic e Ingeniería,0,0,13.0,0.1429,8,0.73,1,1,0
+2024-1,CT0288,Tectónica,E Ciencias Aplic e Ingeniería,0,0,23.0,0.1429,19,0.46,1,1,0
+2023-1,ME0218,Proyecto 3,Escuela de Administración,0,0,154.0,0.0132,146,0.17,1,1,0
+2025-2,OG0376,Dirección y liderazgo,Escuela de Administración,0,0,84.0,0.0,98,0.29,1,1,0
+2022-1,CS0025,Reportaje,Escuela de Artes y Humanidades,0,0,0.0,0.0179,59,0.21,1,1,1
+2023-2,ME0195,Distribución y Omnicanalidad,Escuela de Administración,0,0,72.0,0.0,52,0.26,1,1,0
+2026-1,BU0220,Metodología del Aprendizaje,Vicerrectoría Soste y Proy Soc,0,0,0.0,0.44,33,0.11,1,1,1
+2023-2,ID0254,Sistemas de Ingeniería,E Ciencias Aplic e Ingeniería,0,0,40.0,0.0,41,0.18,1,1,0
+2024-1,CM0936,Álgebra en Ciencs. de los Dat.,E Ciencias Aplic e Ingeniería,0,0,16.0,0.0,15,0.85,1,1,0
+2025-2,CS0235,Periodismo Narrativo,Escuela de Artes y Humanidades,0,0,43.0,0.0588,42,0.07,1,1,0
+2024-1,CM0481,Bioestad. y Dño. Experimental,E Ciencias Aplic e Ingeniería,0,0,5.0,0.0,4,0.89,1,1,0
+2022-2,IC0264,Trazado y Dño. Geomét. de Vías,E Ciencias Aplic e Ingeniería,0,1,0.0,0.1481,30,0.58,2,2,1
+2023-1,MU0686,Específico Énfasis VIolín 6,Escuela de Artes y Humanidades,0,0,1.0,0.0,1,0.0,1,1,0
+2025-1,PT0232,EMPRESARISMO 002,Vicerrectoría de Aprendizaje,0,0,0.0,0.000946242774566474,1,0.97,1,1,1
+2025-2,MU2255,Énfasis Piano Jazz 5,Escuela de Artes y Humanidades,0,0,1.0,0.03556357591429627,1,0.0,1,1,0
+2023-2,DE0226,Entorno Jurídico del Mercadeo,Escuela de Derecho,0,0,2.0,0.0,2,0.87,1,1,0
+2022-1,DF0316,Métodos Numéricos,E Ciencias Aplic e Ingeniería,0,0,0.0,0.125,15,0.57,1,1,1
+2026-1,TA4005,Talento II - Esc Fzas Eco Gbno,Vicerrectoría de Aprendizaje,0,0,55.0,0.000946242774566474,48,0.89,1,1,0
+2024-1,MU2244,Énfasis Piano 4,Escuela de Artes y Humanidades,0,0,4.0,0.0,4,0.0,1,1,0
+2023-2,HL1405,Taller de escrituras líricas,Escuela de Artes y Humanidades,0,0,0.0,0.03556357591429627,4,0.87,1,1,1
+2024-2,DF0037,Fís. Matemática 2 (Ing. Fís.),E Ciencias Aplic e Ingeniería,0,0,7.0,0.1176,5,0.75,1,1,0
+2024-1,ST0261,Tópic. Espec. Ing. de Software,E Ciencias Aplic e Ingeniería,0,0,70.0,0.0,69,0.08,1,1,0
+2025-1,OG0350,Los Procesos en el Tiempo,Escuela de Administración,0,0,6.0,0.0,7,0.77,1,1,0
+2024-2,PT0020,Per. de Práct. (Admón. - Ref.),Vicerrectoría de Aprendizaje,0,0,67.0,0.0,67,0.66,1,1,0
+2025-2,HL0327,Hermenéutica y Recepción,Escuela de Artes y Humanidades,0,0,7.0,0.0,6,0.7,1,1,0
+2026-1,DR2012,Derecho Internacional II,Escuela de Derecho,0,0,83.0,0.0405,61,0.0,1,1,0
+2024-2,IM0727,Acciones Predictivas,E Ciencias Aplic e Ingeniería,0,0,4.0,0.0,4,0.5,1,1,0
+2023-2,BI0802,Tópicos Avanzados en Biotecno.,E Ciencias Aplic e Ingeniería,0,0,7.0,0.0,7,0.8,1,1,0
+2026-1,PT0040,Per. de Práct. (Contad. - Ref),Vicerrectoría de Aprendizaje,0,0,5.0,0.0,4,0.96,1,1,0
+2025-2,DF0239,Física II,E Ciencias Aplic e Ingeniería,0,1,116.0,0.2,83,0.14,9,3,0
+2023-2,PT0239,EMPRESARISMO 014,Vicerrectoría de Aprendizaje,0,0,0.0,0.000946242774566474,1,0.99,1,1,1
+2023-2,MU2303,Armonía y Contrapunto 3,Escuela de Artes y Humanidades,0,0,13.0,0.0,13,0.57,1,1,0
+2023-1,HL0315,Textos e Hipertextos,Escuela de Artes y Humanidades,1,0,1.0,0.1667,8,0.77,1,1,0
+2026-1,ME0189,Investigación 1,Escuela de Administración,0,0,114.0,0.0435,118,0.03,1,1,0
+2024-2,CS0240,Teo. de Func. y Efectos Comun.,Escuela de Artes y Humanidades,0,0,35.0,0.0,33,0.2,1,1,0
+2025-1,CT0306,Énfasis IV,E Ciencias Aplic e Ingeniería,0,0,5.0,0.0,3,0.91,1,1,0
+2024-2,DR2003,Obligaciones I,Escuela de Derecho,0,0,0.0,0.0807820945945946,42,0.35,1,1,1
+2024-2,EC0235,Política Económica,"E.Finanzas, Economía, Gobierno",0,0,154.0,0.0194,156,0.11,1,1,0
+2026-1,PS0304,Psicología General II,Escuela de Artes y Humanidades,0,0,26.0,0.0,21,0.4,1,1,0
+2022-2,CO0221,Impto. a la Inversión Extranj.,Escuela de Administración,0,0,0.0,0.0,9,0.74,1,1,1
+2025-1,CS0267,Animación 2d,Escuela de Artes y Humanidades,0,0,57.0,0.0943,53,0.1,1,1,0
+2023-2,IA0102,Agroclimato. y Agroecosistema,E Ciencias Aplic e Ingeniería,0,0,13.0,0.0,13,0.63,1,1,0
+2022-2,OG0064,Construcción Empresarial,Escuela de Administración,0,0,0.0,0.0,27,0.23,1,1,1
+2023-1,PS0340,Habilidades de Mediación,Escuela de Artes y Humanidades,0,0,3.0,0.0,3,0.79,1,1,0
+2025-1,BI0603,Ecología Química,E Ciencias Aplic e Ingeniería,0,0,6.0,0.0,6,0.8,1,1,0
+2025-1,ID0231,Diseño Metódico,E Ciencias Aplic e Ingeniería,0,0,17.0,0.0294,14,0.44,1,1,0
+2023-1,BU0469,Joyeria,Vicerrectoría Soste y Proy Soc,0,0,3.0,0.0345,29,0.03,1,1,0
+2024-1,PR0240,Mecánica de Fluídos y Lab.,E Ciencias Aplic e Ingeniería,0,1,8.0,0.05551717727153705,8,0.11,1,1,0
+2023-1,ID0910,PE1 - Proyecto 5,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,2,0.71,1,1,1
+2026-1,DE0135,Derecho Laboral 1,Escuela de Derecho,0,0,4.0,0.5,3,0.91,1,1,0
+2024-2,CT0276,Mineralogía Física,E Ciencias Aplic e Ingeniería,0,1,14.0,0.0909,12,0.67,1,1,0
+2023-2,ST0249,Teoría de la Conmutación,E Ciencias Aplic e Ingeniería,0,0,137.0,0.0,115,0.05,1,1,0
+2025-1,ME0235,Innovación Dllo. Nuevos Prod.,Escuela de Administración,0,0,67.0,0.0,61,0.24,1,1,0
+2025-2,FH1036,Guerra y Paz en Colombia,Escuela de Artes y Humanidades,0,0,33.0,0.125,24,0.31,1,1,0
+2024-1,BI0527,Semin. Invest. II (Trab. Gr.),E Ciencias Aplic e Ingeniería,0,0,18.0,0.0,16,0.11,1,1,0
+2024-2,DF0018,Proy. Expe. 1 (Ing. Fís.),E Ciencias Aplic e Ingeniería,0,1,13.0,0.125,13,0.46,1,1,0
+2025-1,BI0529,Cienc. de Dat. en Cienc. VIda,E Ciencias Aplic e Ingeniería,0,0,6.0,0.0,7,0.71,1,1,0
+2024-2,NI0316,Pensamiento Histórico de NI,Escuela de Administración,0,1,126.0,0.0821,123,0.12,1,1,0
+2024-2,DF0048,Tópicos de Física Aplicada 1,E Ciencias Aplic e Ingeniería,0,0,4.0,0.0,5,0.5,1,1,0
+2024-2,MU0717,Específico Énfasis Chelo 7,Escuela de Artes y Humanidades,0,0,1.0,0.0,1,0.0,1,1,0
+2022-2,DF0038,Electromagnetismo,E Ciencias Aplic e Ingeniería,0,1,0.0,0.0769,11,0.31,1,1,1
+2025-2,PT4113,Pre-Práctica Ingeniería Física,Vicerrectoría de Aprendizaje,0,1,8.0,0.0,8,0.93,1,1,0
+2025-1,CT0277,Introducción a la Programación,E Ciencias Aplic e Ingeniería,0,0,19.0,0.0,14,0.3,1,1,0
+2025-1,DE0506,Responsabilidad del Estado,Escuela de Derecho,0,0,16.0,0.0807820945945946,8,0.73,1,1,0
+2026-1,OG0205,Teoría de la Organización,Escuela de Administración,0,0,6.0,0.0,2,0.93,1,1,0
+2022-2,NI0286,Comunicación Intercultural,Escuela de Administración,0,0,0.0,0.0273,56,0.22,1,1,1
+2023-2,CM0108,Estadística 1 (Economía),E Ciencias Aplic e Ingeniería,0,1,108.0,0.075,102,0.15,1,1,0
+2022-2,DF0809,Procesa. de Mater. por Plasma,E Ciencias Aplic e Ingeniería,0,0,0.0,0.05551717727153705,1,0.75,1,1,1
+2024-1,MU2392,Instrumento Complementario 2,Escuela de Artes y Humanidades,0,0,2.0,0.0,1,0.0,1,1,0
+2023-1,FI0116,Matemáticas Financieras,"E.Finanzas, Economía, Gobierno",0,0,159.0,0.1637,137,0.24,1,1,0
+2023-1,ID0243,Proyecto 2,E Ciencias Aplic e Ingeniería,0,0,41.0,0.1053,40,0.05,1,1,0
+2025-2,ME0190,Comportamiento del consum 2,Escuela de Administración,0,0,163.0,0.0583,158,0.03,1,1,0
+2025-1,BI0521,Ecología,E Ciencias Aplic e Ingeniería,0,0,6.0,0.0,7,0.8,1,1,0
+2023-1,EC0421,Eco del comercio internacional,"E.Finanzas, Economía, Gobierno",0,0,180.0,0.1266,153,0.16,1,1,0
+2024-2,DE0132,Derecho Administrativo 1,Escuela de Derecho,0,0,7.0,0.038,6,0.83,1,1,0
+2023-2,DF0121,Fenómenos de Transporte,E Ciencias Aplic e Ingeniería,0,0,19.0,0.1,12,0.5,1,1,0
+2022-1,CS0267,Animación 2d,Escuela de Artes y Humanidades,0,0,0.0,0.15,27,0.61,1,1,1
+2023-2,MU2241,Énfasis Piano 1,Escuela de Artes y Humanidades,0,0,1.0,0.0,1,0.97,1,1,0
+2023-1,HL0318,Estudios del Texto Poético,Escuela de Artes y Humanidades,0,0,8.0,0.3846,7,0.8,1,1,0
+2025-2,PS0330,Semin. Pre-Práct Tall. Clín. I,Escuela de Artes y Humanidades,0,0,22.0,0.0385,23,0.12,1,1,0
+2024-1,CM0441,Práctica Investigativa 2,E Ciencias Aplic e Ingeniería,0,0,13.0,0.0,12,0.2,1,1,0
+2024-1,MA0044,Pago de 26 Umes en Convenio,Escuela de Artes y Humanidades,0,0,0.0,0.03556357591429627,2,0.5,1,1,1
+2024-1,HL0348,Seminario de Énfasis - Edición,Escuela de Artes y Humanidades,0,0,2.0,0.0,2,0.94,1,1,0
+2025-1,EC0421,Eco del comercio internacional,"E.Finanzas, Economía, Gobierno",0,0,188.0,0.1333,160,0.05,1,1,0
+2025-2,DE0509,Acciones constitucionales,Escuela de Derecho,0,0,10.0,0.0807820945945946,9,0.1,1,1,0
+2022-2,OG1957,Evaluación Financiera de Proy.,Escuela de Administración,0,0,0.0,0.0338508398656215,1,0.0,1,1,1
+2023-2,MU2341,Piano Complementario 1,Escuela de Artes y Humanidades,0,0,0.0,0.05,7,0.96,1,1,1
+2024-2,ID0667,Lenguajes Téc. de Programación,E Ciencias Aplic e Ingeniería,0,0,10.0,0.0,11,0.45,1,1,0
+2024-2,IA0402,Proyecto III,E Ciencias Aplic e Ingeniería,0,0,11.0,0.0,11,0.35,1,1,0
+2025-1,IC0768,Concesiones Viales,E Ciencias Aplic e Ingeniería,0,0,1.0,0.0,3,0.75,1,1,0
+2025-2,ID0614,Gerencia de Diseño de Producto,E Ciencias Aplic e Ingeniería,0,0,26.0,0.0,26,0.57,1,1,0
+2023-1,MU0986,Específico Énfasis Trompeta 6,Escuela de Artes y Humanidades,0,0,1.0,0.03556357591429627,1,0.0,1,1,0
+2025-2,ME0220,Ética y RSE,Escuela de Administración,0,0,164.0,0.0703,126,0.22,1,1,0
+2025-1,FI0169,Investigación de Operaciones,"E.Finanzas, Economía, Gobierno",0,0,31.0,0.0,28,0.2,1,1,0
+2022-2,CS0264,Diseño Computacional,Escuela de Artes y Humanidades,0,0,0.0,0.0238,53,0.24,1,1,1
+2023-2,EC0272,Seminario en Macroeconomía,"E.Finanzas, Economía, Gobierno",0,0,5.0,0.1429,10,0.71,1,1,0
+2023-1,BI0046,Innovac Científico-Tecnológica,E Ciencias Aplic e Ingeniería,0,0,0.0,0.05551717727153705,1,0.9,1,1,1
+2025-1,PT0310,Período de Práctica (Finanzas),Vicerrectoría de Aprendizaje,0,0,34.0,0.0,33,0.67,1,1,0
+2026-1,MU2332,Práctica Instrumental 2,Escuela de Artes y Humanidades,0,0,4.0,0.0,3,0.91,1,1,0
+2025-2,HL0317,Hermenéutica del Texto Liter.,Escuela de Artes y Humanidades,0,0,7.0,0.2,9,0.55,1,1,0
+2022-1,ME0156,Invest. de Mercados Cuantit.,Escuela de Administración,0,0,0.0,0.0156,52,0.26,1,1,1
+2022-2,BU0456,Baile Tropical,Vicerrectoría Soste y Proy Soc,0,0,0.0,0.0526,16,0.0,1,1,1
+2024-1,CS0282,Reto Mlab. 3 (Exper. Interac.),Escuela de Artes y Humanidades,0,0,32.0,0.0,30,0.19,1,1,0
+2022-2,DF0240,Física Estadística,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,4,0.83,1,1,1
+2026-1,FH1038,Retos de la Ciudadanía Digital,Escuela de Artes y Humanidades,0,0,0.0,0.03556357591429627,13,0.48,1,1,1
+2026-1,BU0116,Futbol,Vicerrectoría Soste y Proy Soc,0,0,5.0,0.0413,180,0.0,1,1,0
+2026-1,GP0066,Gobernanza Local,"E.Finanzas, Economía, Gobierno",0,0,3.0,0.0,4,0.89,1,1,0
+2023-1,ST1804,Fund. de Ciencias de los Datos,E Ciencias Aplic e Ingeniería,0,0,7.0,0.0,9,0.74,1,1,0
+2025-1,ME0226,Digital 1,Escuela de Administración,0,0,190.0,0.0112,164,0.23,1,1,0
+2022-2,MU0949,Específico Énfasis Percusión 9,Escuela de Artes y Humanidades,0,0,0.0,0.03556357591429627,1,0.0,1,1,1
+2024-1,BU0232,Amor y Redes Sociales,Vicerrectoría Soste y Proy Soc,0,0,0.0,0.0833,24,0.04,1,1,1
+2024-1,BI0522,Fundamentos de Biotecnología,E Ciencias Aplic e Ingeniería,0,0,15.0,0.0,12,0.66,1,1,0
+2022-2,PS0343,Psicoterapias Sintomales,Escuela de Artes y Humanidades,0,0,0.0,0.0,21,0.4,1,1,1
+2024-2,DR1007,Derecho de Propiedad,Escuela de Derecho,0,0,0.0,0.0807820945945946,83,0.12,1,1,1
+2025-2,CS0256,Fotografía Periodística,Escuela de Artes y Humanidades,0,0,20.0,0.03556357591429627,11,0.63,1,1,0
+2022-1,PR0240,Mecánica de Fluídos y Lab.,E Ciencias Aplic e Ingeniería,0,1,0.0,0.05551717727153705,9,0.0,1,1,1
+2026-1,EI7000,Computación Cuántica I,E Ciencias Aplic e Ingeniería,0,0,6.0,0.0,3,0.9,1,1,0
+2026-1,BI0524,Biotecnológia Aplicada,E Ciencias Aplic e Ingeniería,0,0,8.0,0.0,8,0.73,1,1,0
+2025-2,CT0282,Sedimentología,E Ciencias Aplic e Ingeniería,0,1,15.0,0.2143,15,0.06,1,1,0
+2025-2,HL0328,Estudios del Texto Dramático,Escuela de Artes y Humanidades,0,0,10.0,0.0,8,0.6,1,1,0
+2026-1,FH1014,Taller de escrituras líricas,Escuela de Artes y Humanidades,0,0,55.0,0.0588,32,0.36,1,1,0
+2023-2,CS0247,Exper. de Usr. y Arq. de Info.,Escuela de Artes y Humanidades,0,0,57.0,0.0,36,0.05,1,1,0
+2022-1,EC0243,Economía Internacional,"E.Finanzas, Economía, Gobierno",0,0,0.0,0.0365,324,0.22,1,1,1
+2023-1,NI0221,Relaciones Internacionales,Escuela de Administración,0,0,72.0,0.1,65,0.16,1,1,0
+2023-2,PR0695,Herramientas para la Competit.,E Ciencias Aplic e Ingeniería,0,0,7.0,0.0,5,0.83,1,1,0
+2023-1,CM0105,Matemáticas I,E Ciencias Aplic e Ingeniería,0,1,11.0,0.0658,96,0.2,1,1,0
+2022-1,CT0273,Geociencias,E Ciencias Aplic e Ingeniería,0,0,0.0,0.05551717727153705,37,0.26,1,1,1
+2023-2,CM0246,Estructuras Discretas,E Ciencias Aplic e Ingeniería,0,0,242.0,0.1948,134,0.36,1,1,0
+2025-1,IC0276,Programc. y Ppto. de Construc.,E Ciencias Aplic e Ingeniería,0,0,17.0,0.0588,19,0.52,1,1,0
+2025-1,ME0220,Ética y RSE,Escuela de Administración,0,0,163.0,0.099,130,0.2,1,1,0
+2024-2,GP0022,Planeación y Legislación,"E.Finanzas, Economía, Gobierno",0,0,10.0,0.05,19,0.46,1,1,0
+2024-2,BU0230,Desarrollo de la Creatividad,Vicerrectoría Soste y Proy Soc,0,0,0.0,0.1579,25,0.04,1,1,1
+2024-2,MU2002,Énfasis Clarinete 2,Escuela de Artes y Humanidades,0,0,1.0,0.03556357591429627,1,0.0,1,1,0
+2024-2,ID0643,Investigación en Diseño,E Ciencias Aplic e Ingeniería,0,0,24.0,0.0,27,0.13,1,1,0
+2022-1,EC0255,Economía General,"E.Finanzas, Economía, Gobierno",0,0,0.0,0.0645,37,0.0,1,1,1
+2025-2,PD2003,Ciencia Política III,"E.Finanzas, Economía, Gobierno",0,0,8.0,0.0,7,0.5,1,1,0
+2023-2,MU0646,Específico Énfasis Piano 6,Escuela de Artes y Humanidades,0,0,3.0,0.0,2,0.0,1,1,0
+2025-1,CM0231,Cálculo II,E Ciencias Aplic e Ingeniería,0,1,195.0,0.1241,134,0.67,4,4,0
+2026-1,CS0247,Exper. de Usr. y Arq. de Info.,Escuela de Artes y Humanidades,0,0,33.0,0.0,33,0.08,1,1,0
+2025-2,HL0322,Hermenéutica y Fenomenología,Escuela de Artes y Humanidades,0,0,6.0,0.0,5,0.75,1,1,0
+2022-1,MU0739,Específico Énfasis Corno 9,Escuela de Artes y Humanidades,0,0,0.0,0.03556357591429627,1,0.0,1,1,1
+2025-1,CS0091,Teoría de la Imagen,Escuela de Artes y Humanidades,0,0,6.0,0.08,49,0.06,1,1,0
+2023-1,DE0014,Fundamentos de Derecho Privado,Escuela de Derecho,0,0,9.0,0.1149,92,0.26,1,1,0
+2025-1,DF0019,Proy. Expe. 2 (Ing. Fís.),E Ciencias Aplic e Ingeniería,0,1,15.0,0.375,13,0.46,1,1,0
+2026-1,PD3001,Sistemas Políticos Comparados,"E.Finanzas, Economía, Gobierno",0,0,4.0,0.0,4,0.89,1,1,0
+2022-2,DE0136,Teoría Gral. de los Proced.,Escuela de Derecho,0,0,0.0,0.0268,45,0.29,1,1,1
+2025-2,CM0087,Análisis I,E Ciencias Aplic e Ingeniería,0,0,35.0,0.0667,29,0.17,1,1,0
+2026-1,OG0122,Pensamiento Administrativo,Escuela de Administración,0,0,150.0,0.1146,158,0.07,1,1,0
+2023-2,BU0180,Yoga,Vicerrectoría Soste y Proy Soc,0,0,4.0,0.0417,72,0.1,1,1,0
+2024-2,ME0225,Investigación 2,Escuela de Administración,0,0,142.0,0.0667,112,0.22,1,1,0
+2024-1,MU0408,Ensamble 1,Escuela de Artes y Humanidades,0,0,15.0,0.0,14,0.95,1,1,0
+2023-2,NI0251,Gerencia Comercial Intl.,Escuela de Administración,0,0,102.0,0.0182,97,0.08,1,1,0
+2023-1,PT0113,Pre-Práctica,Vicerrectoría de Aprendizaje,0,1,587.0,0.0115,702,0.05,1,1,0
+2026-1,MU2393,Instrumento Complementario 3,Escuela de Artes y Humanidades,0,0,2.0,0.0,2,0.0,1,1,0
+2022-1,DE0143,Filosofía del Derecho,Escuela de Derecho,0,0,0.0,0.0152,62,0.35,1,1,1
+2024-2,CS0091,Teoría de la Imagen,Escuela de Artes y Humanidades,0,0,7.0,0.0,48,0.06,1,1,0
+2026-1,PD2001,Hist. del Pensamiento Econ.,"E.Finanzas, Economía, Gobierno",0,0,20.0,0.0,19,0.46,1,1,0
+2023-1,IC0263,Mecánica del Medio Continuo,E Ciencias Aplic e Ingeniería,0,0,61.0,0.2877,33,0.67,1,1,0
+2022-1,MU0794,Específico Énfasis Flauta 4,Escuela de Artes y Humanidades,0,0,0.0,0.0,1,0.0,1,1,1
+2025-1,ID0267,Modelación 3d 2,E Ciencias Aplic e Ingeniería,0,0,46.0,0.0213,30,0.12,1,1,0
+2025-1,CO0375,Integración de Datos y Prospec,Escuela de Administración,0,0,16.0,0.0,12,0.2,1,1,0
+2025-2,CT0306,Énfasis IV,E Ciencias Aplic e Ingeniería,0,0,30.0,0.0,27,0.1,1,1,0
+2022-1,OG0261,Evaluación Financiera de Proy.,Escuela de Administración,0,0,0.0,0.0307,157,0.1,1,1,1
+2025-1,MU2359,Análisis Siglo XX y XXI,Escuela de Artes y Humanidades,0,0,4.0,0.0,6,0.83,1,1,0
+2026-1,GL3003,Geología Ambiental,E Ciencias Aplic e Ingeniería,0,0,9.0,0.05551717727153705,9,0.62,1,1,0
+2025-2,OG0122,Pensamiento Administrativo,Escuela de Administración,0,0,204.0,0.1319,191,0.08,1,1,0
+2023-2,DE0084,Constitución y Sociedad (Nfi),Escuela de Derecho,0,0,561.0,0.041,337,0.06,1,1,0
+2023-1,CO0341,Estados Financieros Individual,Escuela de Administración,0,0,10.0,0.0,7,0.8,1,1,0
+2024-2,IM0749,Logís. Docml. para Toma Decis.,E Ciencias Aplic e Ingeniería,0,0,6.0,0.0,6,0.83,1,1,0
+2023-1,MU0461,Música de Cámara 2,Escuela de Artes y Humanidades,0,0,11.0,0.0,12,0.95,1,1,0
+2024-1,IP0244,Propiedades y Ensayos,E Ciencias Aplic e Ingeniería,0,1,5.0,0.0,4,0.33,1,1,0
+2024-1,DE0086,Régimen y Sistema Político,Escuela de Derecho,0,0,96.0,0.0735,79,0.21,1,1,0
+2023-1,BI0801,Tópicos Avanzados en Biología,E Ciencias Aplic e Ingeniería,0,0,1.0,0.05551717727153705,1,0.97,1,1,0
+2022-1,MU0445,Práctica Instruml. o Vocal 4,Escuela de Artes y Humanidades,0,0,0.0,0.0,16,0.92,1,1,1
+2023-2,BU0187,Iniciac. E-Sport (Videojuegos),Vicerrectoría Soste y Proy Soc,0,0,3.0,0.05,19,0.1,1,1,0
+2025-2,DP1002,Representación de Producto,E Ciencias Aplic e Ingeniería,0,0,81.0,0.0,76,0.1,1,1,0
+2025-2,IC0764,Geotecnia Vial,E Ciencias Aplic e Ingeniería,0,0,2.0,0.0,3,0.75,1,1,0
+2022-1,NI0275,Transporte Internacional,Escuela de Administración,0,0,0.0,0.0083,90,0.14,1,1,1
+2026-1,DE0502,Derecho Empresarial,Escuela de Derecho,0,0,268.0,0.0174,270,0.0,1,1,0
+2022-2,MU0669,Específico Énfasis Canto 9,Escuela de Artes y Humanidades,0,0,0.0,0.0,2,0.0,1,1,1
+2023-2,ME0224,MercaLab 4,Escuela de Administración,0,0,148.0,0.0,132,0.12,1,1,0
+2024-1,CM0465,Álgebra Lineal y Ec. Difers.,E Ciencias Aplic e Ingeniería,0,0,13.0,0.0,10,0.89,1,1,0
+2026-1,PD1001,Historia Económica General,"E.Finanzas, Economía, Gobierno",1,0,2.0,0.0909,47,0.15,1,1,0
+2024-1,CO0918,Control Organizacional,Escuela de Administración,0,0,5.0,0.0,4,0.84,1,1,0
+2026-1,CV3014,Control de la Construcción,E Ciencias Aplic e Ingeniería,0,0,9.0,0.0,6,0.6,1,1,0
+2022-2,HL1285,Taller de Escritura y Lenguaje,Escuela de Artes y Humanidades,0,0,0.0,0.0,3,0.9,1,1,1
+2025-1,CS0254,Apreciación Cinematográfica,Escuela de Artes y Humanidades,0,0,35.0,0.0,22,0.35,1,1,0
+2022-1,MU0425,Práctica Vocal 2,Escuela de Artes y Humanidades,0,0,0.0,0.0,26,0.91,1,1,1
+2024-1,EC0215,Dllo. y Crecimiento Económico,"E.Finanzas, Economía, Gobierno",0,0,29.0,0.0625,16,0.54,1,1,0
+2024-1,GP0082,Partidos y Elecciones,"E.Finanzas, Economía, Gobierno",0,0,3.0,0.0,3,0.91,1,1,0
+2026-1,PT0230,VALIDACIÓN 237,Vicerrectoría de Aprendizaje,0,0,0.0,0.0,1,0.97,1,1,1
+2022-1,ME0159,Comunic. Integrada de Mercadeo,Escuela de Administración,0,0,0.0,0.0348,167,0.05,1,1,1
+2025-2,MU0759,Específico Énf. Batería Jazz 9,Escuela de Artes y Humanidades,0,0,0.0,0.03556357591429627,1,0.0,1,1,1
+2024-2,BI0231,Agrobioquímica,E Ciencias Aplic e Ingeniería,0,1,12.0,0.0,10,0.5,1,1,0
+2022-1,BI0521,Ecología,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,16,0.54,1,1,1
+2026-1,CO0352,Gestión del riesgo,Escuela de Administración,0,0,10.0,0.0,7,0.72,1,1,0
+2022-2,HL0317,Hermenéutica del Texto Liter.,Escuela de Artes y Humanidades,0,0,0.0,0.0,14,0.6,1,1,1
+2025-2,MU0657,Específico Énf. Jazz Piano 7,Escuela de Artes y Humanidades,0,0,0.0,0.03556357591429627,1,0.0,1,1,1
+2024-1,FI0143,Planeación Financiera,"E.Finanzas, Economía, Gobierno",0,0,58.0,0.0952,52,0.26,1,1,0
+2024-2,ID0241,Dibujo para la Creación,E Ciencias Aplic e Ingeniería,1,0,13.0,0.1293,97,0.31,1,1,0
+2022-1,ID0251,Mecánica de Sólidos y Simul.,E Ciencias Aplic e Ingeniería,0,0,0.0,0.025,30,0.4,1,1,1
+2025-1,OG0283,Aventura Corporativa,Escuela de Administración,0,0,35.0,0.0,41,0.32,1,1,0
+2026-1,IC0764,Geotecnia Vial,E Ciencias Aplic e Ingeniería,0,0,3.0,0.0,3,0.75,1,1,0
+2022-1,HL0346,Dño. y Diagramación Editorial,Escuela de Artes y Humanidades,0,0,0.0,0.03556357591429627,3,0.91,1,1,1
+2022-1,IM0123,Proyecto Especial 2 Créditos,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,1,0.93,1,1,1
+2024-2,IA0102,Agroclimato. y Agroecosistema,E Ciencias Aplic e Ingeniería,0,0,14.0,0.0,12,0.66,1,1,0
+2024-1,NI0278,Abastec. y Distrib. Fís. Intl.,Escuela de Administración,0,0,64.0,0.0323,57,0.19,1,1,0
+2024-1,DF0447,Introducción a la Física,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,12,0.6,1,1,1
+2025-1,IP0240,Materiales,E Ciencias Aplic e Ingeniería,0,0,3.0,0.1053,2,0.83,2,1,0
+2026-1,CM0252,Topología General,E Ciencias Aplic e Ingeniería,0,0,6.0,0.05551717727153705,14,0.3,1,1,0
+2022-1,IP0861,Dño. Colaborativo y Globaliz.,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,5,0.75,1,1,1
+2022-2,IC0926,Electrotecnia 1,E Ciencias Aplic e Ingeniería,0,0,0.0,0.05551717727153705,1,0.93,1,1,1
+2025-1,PT0278,CONVENIO INTERNACIONAL 230,Vicerrectoría de Aprendizaje,0,0,0.0,0.000946242774566474,1,0.97,1,1,1
+2022-1,IC0288,Proyecto 1,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,40,0.38,1,1,1
+2024-2,IC0292,Diseño de Estructuras en Acero,E Ciencias Aplic e Ingeniería,0,0,63.0,0.0351,42,0.4,1,1,0
+2023-1,MU2242,Énfasis Piano 2,Escuela de Artes y Humanidades,0,0,4.0,0.0,4,0.97,1,1,0
+2022-2,PR0682,Gestión Sistémica por Procesos,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,11,0.27,1,1,1
+2026-1,CO0346,Taller Ética y resp social con,Escuela de Administración,0,0,26.0,0.0,25,0.0,1,1,0
+2024-1,HL0340,Estudios de Liter. Latinoamer.,Escuela de Artes y Humanidades,0,0,5.0,0.0,5,0.86,1,1,0
+2024-2,DE0143,Filosofía del Derecho,Escuela de Derecho,0,0,60.0,0.0119,39,0.44,1,1,0
+2023-2,ME0070,Gerencia de Marca,Escuela de Administración,0,0,107.0,0.0317,94,0.18,1,1,0
+2025-2,OG0267,Subsist. de Dllo. Ocupacional,Escuela de Administración,0,0,3.0,0.0,3,0.9,1,1,0
+2025-2,MA0032,Pago de 14 Umes en Convenio,Escuela de Artes y Humanidades,0,0,0.0,0.0,2,0.5,1,1,1
+2026-1,CM0050,Optimización 2,E Ciencias Aplic e Ingeniería,0,0,25.0,0.2143,24,0.31,1,1,0
+2023-1,HL0339,Seminario Maestro I,Escuela de Artes y Humanidades,0,0,5.0,0.0,4,0.89,1,1,0
+2022-2,ST0299,Pensamiento Computacional II,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,8,0.68,1,1,1
+2026-1,CV3001,Análisis y Diseño de Estructur,E Ciencias Aplic e Ingeniería,0,0,42.0,0.125,34,0.23,1,1,0
+2023-2,DF0460,Física y Laboratorio,E Ciencias Aplic e Ingeniería,0,1,25.0,0.0,19,0.41,1,1,0
+2025-1,CV2004,Ingeniería del Transporte,E Ciencias Aplic e Ingeniería,0,0,26.0,0.0,90,0.06,1,1,0
+2025-2,DR3011,Derecho Laboral 2,Escuela de Derecho,0,0,20.0,0.0,13,0.13,1,1,0
+2024-1,CS0246,Audiovisuales de No Ficción,Escuela de Artes y Humanidades,0,0,34.0,0.0,36,0.1,1,1,0
+2022-1,MU0662,Específico Énfasis Canto 2,Escuela de Artes y Humanidades,0,0,0.0,0.0,3,0.0,1,1,1
+2025-1,BI0507,"Zoo., Sistemát. Animal y Lab.",E Ciencias Aplic e Ingeniería,0,1,23.0,0.0385,22,0.08,1,1,0
+2023-2,NI0333,Negociación de Contratos Intls,Escuela de Administración,0,0,21.0,0.0,10,0.71,1,1,0
+2025-1,PS0313,Psicología Evolutiva,Escuela de Artes y Humanidades,0,0,19.0,0.0,22,0.37,1,1,0
+2024-2,BU0472,Iniciación Teatral,Vicerrectoría Soste y Proy Soc,0,0,1.0,0.0625,15,0.06,1,1,0
+2023-1,IC0279,Topografía,E Ciencias Aplic e Ingeniería,0,1,52.0,0.1,44,0.31,2,2,0
+2025-2,ME0261,Dis Avzado Imagen y Exp Marca,Escuela de Administración,0,0,71.0,0.0,65,0.03,1,1,0
+2024-1,MU2335,Práctica Instrumental 5,Escuela de Artes y Humanidades,0,0,4.0,0.03556357591429627,4,0.89,1,1,0
+2025-1,PT4002,Pre-Práctica Negocios Internac,Vicerrectoría de Aprendizaje,0,1,38.0,0.000946242774566474,59,0.79,1,1,0
+2025-2,PS0301,Análisis Descriptivo de Datos,Escuela de Artes y Humanidades,1,0,3.0,0.0476,26,0.13,1,1,0
+2023-1,MU0997,Específico Énf. Flauta Jazz 7,Escuela de Artes y Humanidades,0,0,0.0,0.03556357591429627,1,0.94,1,1,1
+2024-2,NI0395,Teoría de las RRII,Escuela de Administración,0,0,8.0,0.0,7,0.8,1,1,0
+2022-2,IC0837,Ingeniería de Fundaciones,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,6,0.7,1,1,1
+2025-2,HL0354,Historia Contemporánea,Escuela de Artes y Humanidades,0,0,4.0,0.0577,37,0.24,1,1,0
+2023-1,IA0306,Riegos y Drenajes,E Ciencias Aplic e Ingeniería,0,0,9.0,0.0,4,0.76,1,1,0
+2024-1,IP0867,Planeación de Ventas y Operac.,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,2,0.9,1,1,1
+2025-1,BU0007,Inducción,Direc Dsllo Humano y Bienestar,1,1,5.0,0.0667,220,0.06,1,1,0
+2023-1,PT0131,Per. Práct. (Ing. Sists. Ref.),Vicerrectoría de Aprendizaje,0,0,11.0,0.0,14,0.86,1,1,0
+2025-2,OG0362,Análisis de Datos 1,Escuela de Administración,0,0,275.0,0.0372,242,0.04,1,1,0
+2023-2,NI0100,Mercadeo Internacional,Escuela de Administración,0,0,132.0,0.0081,143,0.01,1,1,0
+2024-2,MU0686,Específico Énfasis VIolín 6,Escuela de Artes y Humanidades,0,0,0.0,0.0,1,0.0,1,1,1
+2023-1,ME0240,Ética y Respons. Soc. del Mdeo,Escuela de Administración,0,0,43.0,0.125,38,0.46,1,1,0
+2024-1,ID0663,Diseño Conceptual Mecatrónico,E Ciencias Aplic e Ingeniería,0,0,7.0,0.0667,8,0.2,1,1,0
+2024-1,DE0139,Derecho de Familia y Menor,Escuela de Derecho,0,0,82.0,0.1014,63,0.3,1,1,0
+2022-1,HL1285,Taller de Escritura y Lenguaje,Escuela de Artes y Humanidades,0,0,0.0,0.03556357591429627,3,0.8,1,1,1
+2022-2,ME0237,Administración de Canales,Escuela de Administración,0,0,0.0,0.0123,30,0.54,1,1,1
+2022-2,BI0518,Genét. y Biología de Sistemas,E Ciencias Aplic e Ingeniería,0,1,0.0,0.0588,8,0.6,1,1,1
+2025-1,DE0087,Teoría del Negocio Jurídico,Escuela de Derecho,0,0,4.0,0.5556,4,0.89,1,1,0
+2022-1,EC0301,Series de Tiempo,"E.Finanzas, Economía, Gobierno",0,0,0.0,0.0,10,0.0,1,1,1
+2025-2,NM6001,Matemáticas Aplicada,E Ciencias Aplic e Ingeniería,0,0,16.0,0.05551717727153705,16,0.47,1,1,0
+2024-1,CM0110,Estadística 2 (Economía),E Ciencias Aplic e Ingeniería,0,1,105.0,0.0656,94,0.22,1,1,0
+2024-1,CS0254,Apreciación Cinematográfica,Escuela de Artes y Humanidades,0,0,10.0,0.0,9,0.7,1,1,0
+2022-1,OG0112,Fundamentos de Administración,Escuela de Administración,0,0,0.0,0.0244,55,0.08,1,1,1
+2023-2,HL0330,Narrativas del Yo,Escuela de Artes y Humanidades,0,0,14.0,0.2,12,0.66,1,1,0
+2022-2,PR0705,Seminario,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,3,0.8,1,1,1
+2022-2,ST0277,Gestión de Proy. Informáticos,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,31,0.38,1,1,1
+2023-1,ME0158,Estrategia de Producto,Escuela de Administración,0,0,47.0,0.0185,55,0.21,1,1,0
+2023-1,BU0183,Artes Marciales,Vicerrectoría Soste y Proy Soc,0,0,0.0,0.0,38,0.07,1,1,1
+2026-1,CO0344,Proyecto 4. Auditoría Integral,Escuela de Administración,0,0,14.0,0.0,14,0.44,1,1,0
+2022-1,CO0143,Proced. y Planeac. Tributaria,Escuela de Administración,0,0,0.0,0.0,8,0.77,1,1,1
+2025-1,PT0191,Per. Práct. (Negs. Intls. Ref),Vicerrectoría de Aprendizaje,0,0,45.0,0.0,46,0.54,1,1,0
+2023-2,CO0221,Impto. a la Inversión Extranj.,Escuela de Administración,0,0,7.0,0.0,8,0.77,1,1,0
+2024-1,MU2161,Énfasis Flauta Jazz 1,Escuela de Artes y Humanidades,0,0,0.0,0.03556357591429627,1,0.0,1,1,1
+2026-1,PR0231,Introd. a la Ing. de Procesos,E Ciencias Aplic e Ingeniería,1,0,0.0,0.0,8,0.68,1,1,1
+2024-1,IC0293,Sistemas de Transporte,E Ciencias Aplic e Ingeniería,0,0,31.0,0.0,33,0.06,1,1,0
+2023-2,FI0143,Planeación Financiera,"E.Finanzas, Economía, Gobierno",0,0,19.0,0.0444,21,0.3,1,1,0
+2024-1,BI0530,Bioética y Gest. de Pol. Amb.,E Ciencias Aplic e Ingeniería,0,0,19.0,0.1111,19,0.0,1,1,0
+2024-1,EC0314,Organización Industrial,"E.Finanzas, Economía, Gobierno",0,0,11.0,0.05473100983020554,4,0.89,1,1,0
+2022-1,CS0244,Invest. de Recep. y Audien.,Escuela de Artes y Humanidades,0,0,0.0,0.0,31,0.56,1,1,1
+2026-1,CV4003,Movilidad Urbana,E Ciencias Aplic e Ingeniería,0,0,26.0,0.05551717727153705,24,0.35,1,1,0
+2022-1,MU0400,El Lenguaje de la Música - Nfi,Escuela de Artes y Humanidades,0,0,0.0,0.0,42,0.05,1,1,1
+2022-1,CT0626,Condiciones Nat. de Colombia,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,6,0.6,1,1,1
+2024-1,DE0144,Sucesiones,Escuela de Derecho,0,0,97.0,0.1515,59,0.21,1,1,0
+2024-1,IA0104,Tecn Avanz Intel Arti en Agric,E Ciencias Aplic e Ingeniería,0,0,14.0,0.05551717727153705,14,0.6,1,1,0
+2024-1,GP0055,Ciencia Política II,"E.Finanzas, Economía, Gobierno",0,0,18.0,0.1429,13,0.63,1,1,0
+2025-2,EC0419,Microeconomía,"E.Finanzas, Economía, Gobierno",0,0,217.0,0.1111,177,0.16,1,1,0
+2026-1,NM6001,Matemáticas Aplicada,E Ciencias Aplic e Ingeniería,0,0,34.0,0.0,32,0.0,1,1,0
+2023-1,CM0218,Matemáticas 3,E Ciencias Aplic e Ingeniería,0,0,43.0,0.1739,14,0.67,1,1,0
+2023-1,DF0025,Fís. Matemática 1 (Ing. Fís.),E Ciencias Aplic e Ingeniería,0,0,7.0,0.0,9,0.55,1,1,0
+2023-1,MU0647,Específico Énfasis Piano 7,Escuela de Artes y Humanidades,0,0,2.0,0.0,2,0.0,1,1,0
+2026-1,HL0329,Edición Análoga,Escuela de Artes y Humanidades,0,0,5.0,0.1429,4,0.89,1,1,0
+2023-2,IA0307,Maqria. Agrícola y Eqp. Digs.,E Ciencias Aplic e Ingeniería,0,0,11.0,0.0,10,0.41,1,1,0
+2024-1,NI0259,Hist. de las Relac. Intls.,Escuela de Administración,0,0,5.0,0.0338508398656215,3,0.7,1,1,0
+2024-2,IA0101,Intr. a las Ciencias Agrícolas,E Ciencias Aplic e Ingeniería,1,0,0.0,0.0,18,0.49,1,1,1
+2022-1,PR0210,Proyecto Especial de 1 Crédito,E Ciencias Aplic e Ingeniería,0,0,0.0,0.05551717727153705,1,0.9,1,1,1
+2025-2,MU2356,Ensamble 6,Escuela de Artes y Humanidades,0,0,1.0,1.0,1,0.67,1,1,0
+2023-2,BU0460,Dibujo,Vicerrectoría Soste y Proy Soc,0,0,1.0,0.0263,29,0.03,1,1,0
+2023-2,IM0244,Anteproyecto,E Ciencias Aplic e Ingeniería,0,0,20.0,0.0,17,0.51,1,1,0
+2025-1,NI0256,Gest. de la Distrib. Fís Intl.,Escuela de Administración,0,0,7.0,0.0,5,0.92,1,1,0
+2023-2,CO0143,Proced. y Planeac. Tributaria,Escuela de Administración,0,0,7.0,0.1,9,0.74,1,1,0
+2026-1,CV2005,Fundamentos de Hidráulica,E Ciencias Aplic e Ingeniería,0,1,49.0,0.1163,31,0.54,1,1,0
+2023-1,CM0415,Teo. de Probabs. (Ing. Mat.),E Ciencias Aplic e Ingeniería,0,0,34.0,0.2,24,0.31,1,1,0
+2023-1,HL0352,Crítica y Canon,Escuela de Artes y Humanidades,0,0,8.0,0.03556357591429627,6,0.65,1,1,0
+2025-2,CO0372,Introducción a la BI,Escuela de Administración,0,0,16.0,0.0,17,0.43,1,1,0
+2023-1,BU0157,Frisbee Ultimate,Vicerrectoría Soste y Proy Soc,0,0,0.0,0.04,40,0.0,1,1,1
+2022-2,IP0258,Control de Producción,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,20,0.33,1,1,1
+2025-2,PS0327,Fundamentos de Investigación,Escuela de Artes y Humanidades,0,0,35.0,0.0476,32,0.0,1,1,0
+2024-2,CO0127,Teoría General de la Auditoría,Escuela de Administración,0,0,1.0,0.1111,3,0.9,1,1,0
+2025-2,ST0272,Electrónica Básica,E Ciencias Aplic e Ingeniería,0,0,4.0,0.0,4,0.0,1,1,0
+2024-1,CO0125,Estados Financieros,Escuela de Administración,0,0,2.0,0.0338508398656215,1,0.97,1,1,0
+2024-1,MU0707,Específico Énf. Contrabajo 7,Escuela de Artes y Humanidades,0,0,1.0,0.03556357591429627,1,0.0,1,1,0
+2024-1,OG0269,Subsistema de Control,Escuela de Administración,0,0,8.0,0.0,12,0.33,1,1,0
+2023-2,OG0351,Medición de Procesos,Escuela de Administración,0,0,4.0,0.0,3,0.25,1,1,0
+2025-1,EC0240,Microeconomía Intermedia 1,"E.Finanzas, Economía, Gobierno",0,0,4.0,0.25,2,0.94,1,1,0
+2023-2,NI0247,Estrategias de Intlzc.,Escuela de Administración,0,0,102.0,0.0075,106,0.04,1,1,0
+2023-1,HL0593,Prácticas Textuales (Nfi),Escuela de Artes y Humanidades,0,0,9.0,0.0,1,0.97,1,1,0
+2023-2,ME0191,Productos y propuesta de valor,Escuela de Administración,0,0,124.0,0.0312,117,0.16,1,1,0
+2025-2,PD3006,Economía Política y Desarrollo,"E.Finanzas, Economía, Gobierno",0,0,15.0,0.0,12,0.66,1,1,0
+2023-1,ID0240,Proyecto 1,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0476,65,-0.02,1,1,1
+2025-2,MU2301,Armonía y Contrapunto 1,Escuela de Artes y Humanidades,0,0,0.0,0.0625,9,0.44,1,1,1
+2026-1,CM0087,Análisis I,E Ciencias Aplic e Ingeniería,0,0,25.0,0.0345,17,0.51,1,1,0
+2026-1,SP1004,Producción Sonora,Escuela de Artes y Humanidades,0,0,32.0,0.03556357591429627,38,0.03,1,1,0
+2025-2,IC0759,Estabilidad de Taludes,E Ciencias Aplic e Ingeniería,0,0,2.0,0.0,2,0.83,1,1,0
+2025-2,ME0238,Métodos de Invest. Cuantit.,Escuela de Administración,0,0,1.0,0.0,4,0.2,1,1,0
+2026-1,FS1002,Fundamentos de Electrónica,E Ciencias Aplic e Ingeniería,0,0,33.0,0.0,30,0.09,1,1,0
+2023-1,GP0025,Política Deliberativa,Escuela de Artes y Humanidades,0,0,1.0,0.0,2,0.5,1,1,0
+2022-2,HL1378,Semin. Temá. en Est. del Leng.,Escuela de Artes y Humanidades,0,0,0.0,0.03556357591429627,2,0.94,1,1,1
+2024-2,CT0279,Geomorfología,E Ciencias Aplic e Ingeniería,0,0,10.0,0.0,8,0.47,1,1,0
+2026-1,BI0236,Genética Molecular y Biotecno.,E Ciencias Aplic e Ingeniería,0,0,17.0,0.0909,14,0.44,1,1,0
+2026-1,DF0802,Técs. Instrs. Anál. de Mater.,E Ciencias Aplic e Ingeniería,0,0,5.0,0.05551717727153705,3,0.88,1,1,0
+2025-2,DR1003,Teorías del Estado y la Const.,Escuela de Derecho,1,0,14.0,0.08,56,0.05,1,1,0
+2024-1,CS0067,Diagramación y Diseño,Escuela de Artes y Humanidades,0,0,84.0,0.069,56,0.07,1,1,0
+2025-2,BU0470,Bisutería,Vicerrectoría Soste y Proy Soc,0,0,0.0,0.0,10,0.0,1,1,1
+2024-2,CO0355,Control de fraude y corrupción,Escuela de Administración,0,0,2.0,0.0338508398656215,5,0.64,1,1,0
+2022-2,EC0303,Principios de Economía,"E.Finanzas, Economía, Gobierno",0,0,0.0,0.0,15,0.57,1,1,1
+2022-1,OG0281,Idear Empresarial,Escuela de Administración,0,0,0.0,0.0625,32,0.54,1,1,1
+2024-2,IP0250,Control Automático de Procesos,E Ciencias Aplic e Ingeniería,0,1,28.0,0.0444,28,0.22,2,1,0
+2023-2,ME0200,Precios y Estrategias de Monet,Escuela de Administración,0,0,25.0,0.0338508398656215,5,0.38,1,1,0
+2025-1,CT0293,Cartografía Geológica,E Ciencias Aplic e Ingeniería,0,0,7.0,0.2353,8,0.6,1,1,0
+2022-2,PS0328,Campos Ocupacionales II,Escuela de Artes y Humanidades,0,0,0.0,0.0,27,0.61,1,1,1
+2024-2,GP0037,Geog. y Pol. - Elect. Nfi,"E.Finanzas, Economía, Gobierno",0,0,50.0,0.05,28,0.6,1,1,0
+2025-1,CO0222,Impto. Aduaneros y de Cambios,Escuela de Administración,0,0,5.0,0.0,3,0.7,1,1,0
+2022-1,ST0217,Proyecto de 2 Créditos,E Ciencias Aplic e Ingeniería,0,0,0.0,0.05551717727153705,1,0.75,1,1,1
+2023-1,MU2303,Armonía y Contrapunto 3,Escuela de Artes y Humanidades,0,0,0.0,0.03556357591429627,12,0.6,1,1,1
+2025-2,MU2334,Práctica Instrumental 4,Escuela de Artes y Humanidades,0,0,4.0,0.0,4,0.33,1,1,0
+2022-2,BI0231,Agrobioquímica,E Ciencias Aplic e Ingeniería,0,1,0.0,0.0,16,0.6,1,1,1
+2026-1,DE0139,Derecho de Familia y Menor,Escuela de Derecho,0,0,6.0,0.1429,3,0.0,1,1,0
+2026-1,CS0722,Elect. 1: Mdeo. Dig. y Transmd,Escuela de Artes y Humanidades,0,0,38.0,0.0,44,0.08,1,1,0
+2025-1,IC0282,Elems. de Hormigón Reforzado,E Ciencias Aplic e Ingeniería,0,0,1.0,0.1842,1,0.97,1,1,0
+2024-2,DF0125,Mecánica Cuántica,E Ciencias Aplic e Ingeniería,0,0,17.0,0.0,16,0.33,1,1,0
+2025-1,IM0234,Dinámica,E Ciencias Aplic e Ingeniería,0,0,4.0,0.5,5,0.91,1,1,0
+2023-2,CS0238,Lenguaje Audiovisual,Escuela de Artes y Humanidades,0,0,92.0,0.0,74,0.08,1,1,0
+2023-1,PS0309,Modelos Administrativos,Escuela de Artes y Humanidades,0,0,20.0,0.0,24,0.31,1,1,0
+2025-1,BI0458,Microbiología y Laboratorio,E Ciencias Aplic e Ingeniería,0,1,24.0,0.04,20,0.33,1,1,0
+2022-1,CM0939,Aprendizaje Automático,E Ciencias Aplic e Ingeniería,0,0,0.0,0.05551717727153705,2,0.8,1,1,1
+2025-1,IP0247,Procesos de Manufactura 2,E Ciencias Aplic e Ingeniería,0,1,2.0,0.0,2,0.5,1,1,0
+2024-2,CM0415,Teo. de Probabs. (Ing. Mat.),E Ciencias Aplic e Ingeniería,0,0,29.0,0.1739,23,0.34,1,1,0
+2026-1,MU2408,Composición y Arreglos 2,Escuela de Artes y Humanidades,0,0,5.0,0.03556357591429627,5,0.67,1,1,0
+2022-1,BI0517,Biología del Desarrollo,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,12,0.66,1,1,1
+2022-1,BU0233,Pensamiento Crítico,Vicerrectoría Soste y Proy Soc,0,0,0.0,0.087,19,0.27,1,1,1
+2024-1,PS0330,Semin. Pre-Práct Tall. Clín. I,Escuela de Artes y Humanidades,0,0,32.0,0.0,26,0.26,1,1,0
+2023-2,PS0319,Contexto e Instituciones,Escuela de Artes y Humanidades,0,0,32.0,0.0,22,0.37,1,1,0
+2023-1,GP0071,Construcción de Paz,"E.Finanzas, Economía, Gobierno",0,0,13.0,0.0,10,0.71,1,1,0
+2022-2,CO0128,Contabilidad Fiscal,Escuela de Administración,0,0,0.0,0.0,18,0.49,1,1,1
+2025-2,IC0830,Geomecánica de Rocas,E Ciencias Aplic e Ingeniería,0,0,1.0,0.0,1,0.96,1,1,0
+2026-1,IC0272,Procesos Constructivos,E Ciencias Aplic e Ingeniería,0,1,0.0,0.05551717727153705,1,0.97,1,1,1
+2024-1,IA0402,Proyecto III,E Ciencias Aplic e Ingeniería,0,0,10.0,0.0,8,0.77,1,1,0
+2025-2,DR5007,Pol. Púb. Fam. y Género,Escuela de Derecho,0,0,2.0,0.0807820945945946,7,0.3,1,1,0
+2024-2,FI0216,Matemáticas Financieras,"E.Finanzas, Economía, Gobierno",0,0,66.0,0.0943,106,0.12,1,1,0
+2025-2,DR4006,Met Alterna de Soluc Conflicto,Escuela de Derecho,0,0,37.0,0.0345,46,0.39,1,1,0
+2022-1,DF0460,Física y Laboratorio,E Ciencias Aplic e Ingeniería,0,1,0.0,0.1905,28,0.12,1,1,1
+2022-2,CS0235,Periodismo Narrativo,Escuela de Artes y Humanidades,0,0,0.0,0.0185,32,0.22,1,1,1
+2022-1,BI0244,Biología,E Ciencias Aplic e Ingeniería,0,0,0.0,0.05551717727153705,38,0.1,2,1,1
+2026-1,PD1002,Proy. 1: Herramientas y App,"E.Finanzas, Economía, Gobierno",1,0,2.0,0.087,46,0.34,1,1,0
+2022-1,ME0172,Introd. al Mercadeo de la Moda,Escuela de Administración,0,0,0.0,0.0217,32,0.09,1,1,1
+2023-2,NI0266,Derecho Internacional Público,Escuela de Administración,0,0,6.0,0.0,9,0.74,1,1,0
+2023-2,ME0240,Ética y Respons. Soc. del Mdeo,Escuela de Administración,0,0,20.0,0.0513,19,0.46,1,1,0
+2023-2,CT0278,Mineralogía Óptica,E Ciencias Aplic e Ingeniería,0,1,14.0,0.0,9,0.36,1,1,0
+2023-2,IP0254,Automatización con Plc,E Ciencias Aplic e Ingeniería,0,1,61.0,0.0536,53,0.13,1,1,0
+2025-2,PT0307,Período de Práctica (Psico.),Vicerrectoría de Aprendizaje,0,0,17.0,0.0,15,0.85,1,1,0
+2022-1,DE0827,Derecho y Guerra,Escuela de Derecho,0,0,0.0,0.0807820945945946,15,0.0,1,1,1
+2024-2,CT0274,Campo 0,E Ciencias Aplic e Ingeniería,0,0,7.0,0.0,19,0.46,1,1,0
+2022-2,MU0382,Piano Complementario 2,Escuela de Artes y Humanidades,0,0,0.0,0.0,3,0.85,1,1,1
+2026-1,OG0124,Organizaciones,Escuela de Administración,1,0,131.0,0.1011,180,0.03,1,1,0
+2025-1,OG0064,Construcción Empresarial,Escuela de Administración,0,0,31.0,0.0,15,0.52,1,1,0
+2024-2,PT0301,Período Práct. (Música Ref.),Vicerrectoría de Aprendizaje,0,0,10.0,0.0,10,0.9,1,1,0
+2025-1,PT0209,VALIDACIÓN 003,Vicerrectoría de Aprendizaje,0,0,0.0,0.000946242774566474,3,0.91,1,1,1
+2025-1,FI0242,Ciencs. de los datos y Comput,"E.Finanzas, Economía, Gobierno",0,0,55.0,0.0,49,0.02,1,1,0
+2025-1,PD2008,Análisis y Dño. de Pols. Públ.,"E.Finanzas, Economía, Gobierno",0,0,0.0,0.05473100983020554,8,0.77,1,1,1
+2025-2,GP0059,Sociología del Estado,"E.Finanzas, Economía, Gobierno",0,0,1.0,0.0,4,0.8,1,1,0
+2024-2,PT0221,VALIDACIÓN 111,Vicerrectoría de Aprendizaje,0,0,0.0,0.000946242774566474,1,0.97,1,1,1
+2023-2,CS0282,Reto Mlab. 3 (Exper. Interac.),Escuela de Artes y Humanidades,0,0,19.0,0.03556357591429627,13,0.24,1,1,0
+2025-2,IP0208,Proyecto Especial 3 Créditos,E Ciencias Aplic e Ingeniería,0,0,1.0,0.0,1,0.93,1,1,0
+2025-1,BI0468,Práctica Investigativa I,E Ciencias Aplic e Ingeniería,0,0,30.0,0.2857,34,0.03,1,1,0
+2025-1,IM0749,Logís. Docml. para Toma Decis.,E Ciencias Aplic e Ingeniería,0,0,2.0,0.0,1,0.97,1,1,0
+2023-2,PT0111,Período de Práct. (Eco. Ref.),Vicerrectoría de Aprendizaje,0,0,14.0,0.0,14,0.86,1,1,0
+2024-2,OG0410,Drllo y Aprend Organizacional,Escuela de Administración,0,0,4.0,0.0338508398656215,4,0.87,1,1,0
+2023-1,HL0330,Narrativas del Yo,Escuela de Artes y Humanidades,0,0,11.0,0.0,10,0.71,1,1,0
+2025-2,OG0347,Análisis de Datos,Escuela de Administración,0,0,8.0,0.25,1,0.96,1,1,0
+2025-2,CS0045,Imagen Digital,Escuela de Artes y Humanidades,0,0,116.0,0.049,114,0.05,1,1,0
+2023-1,MU0451,Música de Cámara 1,Escuela de Artes y Humanidades,0,0,14.0,0.0,13,0.94,1,1,0
+2024-1,CM0234,Álgebra Lineal,E Ciencias Aplic e Ingeniería,0,0,259.0,0.181,185,0.44,2,2,0
+2022-2,HL0232,Curso Proyecto - 3 Créditos,Escuela de Artes y Humanidades,0,0,0.0,0.0,22,0.41,1,1,1
+2025-1,EC0314,Organización Industrial,"E.Finanzas, Economía, Gobierno",0,0,9.0,0.0,3,0.92,1,1,0
+2025-1,CS0045,Imagen Digital,Escuela de Artes y Humanidades,0,0,108.0,0.0673,102,0.06,1,1,0
+2024-1,EC0418,Economía,"E.Finanzas, Economía, Gobierno",1,0,26.0,0.14,176,0.09,1,1,0
+2024-2,IP0208,Proyecto Especial 3 Créditos,E Ciencias Aplic e Ingeniería,0,0,1.0,0.0,3,0.25,1,1,0
+2022-1,CM0243,Estadística 2,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,22,0.37,1,1,1
+2022-1,OG0133,Administración Internacional,Escuela de Administración,0,0,0.0,0.0312,172,0.18,1,1,1
+2024-1,NI0285,Teoría de la Negociación,Escuela de Administración,0,0,1.0,0.0338508398656215,4,0.6,1,1,0
+2023-2,NI0321,Análisis Geopolítico,Escuela de Administración,0,0,150.0,0.0328,128,0.01,1,1,0
+2025-2,IM0234,Dinámica,E Ciencias Aplic e Ingeniería,0,0,0.0,0.2,1,0.0,1,1,1
+2025-1,MU2062,Énfasis Percusión 2,Escuela de Artes y Humanidades,0,0,0.0,0.0,1,0.0,1,1,1
+2025-2,FI0087,Finanzas Corporativas Avdas.,"E.Finanzas, Economía, Gobierno",0,0,19.0,0.0,21,0.12,1,1,0
+2024-2,ID0248,Proyecto 3,E Ciencias Aplic e Ingeniería,0,0,38.0,0.0,36,0.05,1,1,0
+2024-1,DF0125,Mecánica Cuántica,E Ciencias Aplic e Ingeniería,0,0,18.0,0.0,19,0.21,1,1,0
+2023-1,IC0281,Dinámica Estructural,E Ciencias Aplic e Ingeniería,0,0,79.0,0.2105,62,0.22,1,1,0
+2026-1,HL0229,Curso Proyecto - 1 Crédito,Escuela de Artes y Humanidades,0,0,0.0,0.0,5,0.5,1,1,1
+2022-2,EC0314,Organización Industrial,"E.Finanzas, Economía, Gobierno",0,0,0.0,0.0,5,0.86,1,1,1
+2025-2,CT0296,Geología Ambiental,E Ciencias Aplic e Ingeniería,0,0,16.0,0.0,13,0.35,1,1,0
+2025-2,ME0188,MercaLab 2,Escuela de Administración,0,0,152.0,0.0171,145,0.09,1,1,0
+2023-1,MU0717,Específico Énfasis Chelo 7,Escuela de Artes y Humanidades,0,0,1.0,0.03556357591429627,1,0.0,1,1,0
+2026-1,SI6002,Aprendizaje Automático,E Ciencias Aplic e Ingeniería,0,0,32.0,0.0,31,0.0,1,1,0
+2025-1,GP0055,Ciencia Política II,"E.Finanzas, Economía, Gobierno",0,0,14.0,0.0,3,0.91,1,1,0
+2022-2,MU0415,Práctica Vocal 1,Escuela de Artes y Humanidades,0,0,0.0,0.0625,2,0.87,1,1,1
+2022-2,PR0312,Ecología,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0065,373,0.03,1,1,1
+2026-1,PN6005,Diseño para la Excelencia,E Ciencias Aplic e Ingeniería,0,0,3.0,0.0,3,0.85,1,1,0
+2023-2,IP0258,Control de Producción,E Ciencias Aplic e Ingeniería,0,0,18.0,0.0,18,0.28,1,1,0
+2024-1,CS0277,Programación Creativa,Escuela de Artes y Humanidades,0,0,30.0,0.0857,30,0.12,1,1,0
+2023-2,MU2063,Énfasis Percusión 3,Escuela de Artes y Humanidades,0,0,1.0,0.03556357591429627,1,0.0,1,1,0
+2022-1,FI0224,Finanzas Internacionales,"E.Finanzas, Economía, Gobierno",0,0,0.0,0.0488,100,0.04,1,1,1
+2023-2,GP0080,Política y Género,"E.Finanzas, Economía, Gobierno",0,0,6.0,0.0,6,0.83,1,1,0
+2023-1,DE0156,Met Alterna de Soluc Conflicto,Escuela de Derecho,0,0,118.0,0.0,110,0.1,1,1,0
+2023-2,MU0513,Piano Complem. Instrumento 3,Escuela de Artes y Humanidades,0,0,1.0,0.0,1,0.0,1,1,0
+2022-2,HL0346,Dño. y Diagramación Editorial,Escuela de Artes y Humanidades,0,0,0.0,0.3333,2,0.94,1,1,1
+2024-1,IP0258,Control de Producción,E Ciencias Aplic e Ingeniería,0,0,2.0,0.0,6,0.76,1,1,0
+2025-1,NM2002,Probabilidad y Estadística,E Ciencias Aplic e Ingeniería,0,1,50.0,0.0,166,0.21,2,2,0
+2024-1,OG0135,Ética y Responsabilidad Social,Escuela de Administración,0,0,47.0,0.0139,16,0.0,1,1,0
+2025-2,OG0260,Preparación de Proyectos,Escuela de Administración,0,0,81.0,0.0,82,0.34,1,1,0
+2026-1,HL0321,Gramática del Discurso,Escuela de Artes y Humanidades,0,0,5.0,0.0,1,0.97,1,1,0
+2026-1,IA0304,Bigdata & Bioinformática,E Ciencias Aplic e Ingeniería,0,0,12.0,0.0,12,0.4,1,1,0
+2025-1,PD1003,Ciencia Política I,"E.Finanzas, Economía, Gobierno",1,0,0.0,0.05473100983020554,15,0.57,1,1,1
+2023-2,EC0216,Técnicas de Medición Económica,"E.Finanzas, Economía, Gobierno",0,0,1.0,0.0,22,0.37,1,1,0
+2026-1,ST0246,Base de Datos,E Ciencias Aplic e Ingeniería,0,0,19.0,0.1333,13,0.83,1,1,0
+2025-1,CT0286,Geofísica,E Ciencias Aplic e Ingeniería,0,0,8.0,0.0,7,0.8,1,1,0
+2024-1,CT0290,Geoquímica,E Ciencias Aplic e Ingeniería,0,0,38.0,0.05551717727153705,38,0.05,1,1,0
+2025-2,MU2061,Énfasis Percusión 1,Escuela de Artes y Humanidades,0,0,0.0,0.03556357591429627,1,0.0,1,1,1
+2024-1,BI0512,Físico-Química y Laboratorio,E Ciencias Aplic e Ingeniería,0,1,14.0,0.0909,7,0.65,1,1,0
+2026-1,PT0211,VALIDACIÓN 010,Vicerrectoría de Aprendizaje,0,0,0.0,0.0,3,0.91,1,1,1
+2025-1,FI0131,Análisis Financiero,"E.Finanzas, Economía, Gobierno",0,0,215.0,0.1066,156,0.06,1,1,0
+2022-2,CT0628,Recursos Tecno. y Conceptuales,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,25,0.0,1,1,1
+2025-2,ID0667,Lenguajes Téc. de Programación,E Ciencias Aplic e Ingeniería,0,0,14.0,0.0,11,-0.83,1,1,0
+2023-2,CM0433,Procesos Estocásticos 1,E Ciencias Aplic e Ingeniería,0,0,17.0,0.0714,16,0.54,1,1,0
+2022-2,IC0749,Anál Matric de Estruct Retilrs,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,14,0.3,1,1,1
+2026-1,ST1631,Aprend. Máq. Aplic. - Elect.,E Ciencias Aplic e Ingeniería,0,0,32.0,0.0,32,0.3,1,1,0
+2024-2,IC0763,Mec. de Mater. para Pavimentos,E Ciencias Aplic e Ingeniería,0,0,3.0,0.0,3,0.75,1,1,0
+2022-1,CM0055,Práctica Investigativa 3,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0,11,0.45,1,1,1
+2026-1,HL0341,Seminario Maestro II,Escuela de Artes y Humanidades,0,0,13.0,0.03556357591429627,11,0.69,1,1,0
+2025-1,CS0268,Creación de Universos Narrat.,Escuela de Artes y Humanidades,0,0,53.0,0.0816,50,0.06,1,1,0
+2025-2,CT0295,Hidrología Andina,E Ciencias Aplic e Ingeniería,0,0,7.0,0.0,7,0.65,1,1,0
+2023-2,DF0025,Fís. Matemática 1 (Ing. Fís.),E Ciencias Aplic e Ingeniería,0,0,15.0,0.1,15,0.25,1,1,0
+2024-2,ID0280,Física de los Medios,E Ciencias Aplic e Ingeniería,0,0,71.0,0.2778,55,0.27,1,1,0
+2025-2,FI0161,Gestión Bancaria,"E.Finanzas, Economía, Gobierno",0,0,35.0,0.0,31,0.11,1,1,0
+2023-1,CM0433,Procesos Estocásticos 1,E Ciencias Aplic e Ingeniería,0,0,14.0,0.0385,14,0.6,1,1,0
+2025-1,MU0514,Piano Complem. Instrumento 4,Escuela de Artes y Humanidades,0,0,1.0,0.03556357591429627,1,0.97,1,1,0
+2024-1,MU2072,Énfasis Saxofón 2,Escuela de Artes y Humanidades,0,0,1.0,0.03556357591429627,1,0.97,1,1,0
+2022-1,DE0163,Derecho Administrativo,Escuela de Derecho,0,0,0.0,0.037,6,0.83,1,1,1
+2025-1,FH1016,Taller de Dramaturgia Experime,Escuela de Artes y Humanidades,0,0,38.0,0.03556357591429627,19,0.47,1,1,0
+2025-1,MU2121,Énfasis Violín 1,Escuela de Artes y Humanidades,0,0,1.0,0.0,3,0.0,1,1,0
+2022-2,CS0229,Expresión Escrita,Escuela de Artes y Humanidades,0,0,0.0,0.0175,33,0.3,1,1,1
+2023-1,PS0313,Psicología Evolutiva,Escuela de Artes y Humanidades,0,0,19.0,0.0667,26,0.26,1,1,0
+2026-1,CS0256,Fotografía Periodística,Escuela de Artes y Humanidades,0,0,12.0,0.0,12,0.2,1,1,0
+2025-1,MU0478,Correpetición 3,Escuela de Artes y Humanidades,0,0,2.0,0.0,2,0.0,1,1,0
+2022-1,CM0079,Modelación y Simulación III,E Ciencias Aplic e Ingeniería,0,0,0.0,0.2857,23,0.08,1,1,1
+2023-1,MU0388,Específico Énf. Instrumento 3,Escuela de Artes y Humanidades,0,0,0.0,0.25,2,0.0,1,1,1
+2022-2,CS0293,Producción para la Web,Escuela de Artes y Humanidades,0,0,0.0,0.0,6,0.7,1,1,1
+2025-1,CM0440,Sistemas Lineales,E Ciencias Aplic e Ingeniería,0,0,24.0,0.037,16,0.3,1,1,0
+2022-2,CS0240,Teo. de Func. y Efectos Comun.,Escuela de Artes y Humanidades,0,0,0.0,0.0,37,0.08,1,1,1
+2025-1,CO0133,Fundamentos de Contabilidad,Escuela de Administración,1,0,8.0,0.0513,104,0.03,1,1,0
+2023-2,HL0337,Estudios del Texto Ensayístico,Escuela de Artes y Humanidades,0,0,7.0,0.0,8,0.77,1,1,0
+2024-2,CO0126,Convers. y Consolid. de Ee.Ff.,Escuela de Administración,0,0,1.0,1.0,1,0.96,1,1,0
+2025-1,MU2303,Armonía y Contrapunto 3,Escuela de Artes y Humanidades,0,0,15.0,0.0,15,0.25,1,1,0
+2022-1,FI0242,Ciencs. de los datos y Comput,"E.Finanzas, Economía, Gobierno",0,0,0.0,0.0,17,0.06,1,1,1
+2022-2,ST0270,Leng. Formales y Compiladores,E Ciencias Aplic e Ingeniería,0,0,0.0,0.0441,26,0.0,1,1,1
+2025-2,CO0349,Taller Pres Junt Direct Asambl,Escuela de Administración,0,0,5.0,0.0338508398656215,4,0.2,1,1,0
+2025-2,BI0458,Microbiología y Laboratorio,E Ciencias Aplic e Ingeniería,0,1,18.0,0.1,15,0.4,1,1,0
+2023-1,BI0242,Biología,E Ciencias Aplic e Ingeniería,0,0,24.0,0.069,24,0.31,1,1,0
+2023-1,MU2441,Música de Cámara 1,Escuela de Artes y Humanidades,0,0,9.0,0.03556357591429627,8,0.77,1,1,0
+2023-1,IC0822,Ingeniería Económica,E Ciencias Aplic e Ingeniería,0,0,23.0,0.0952,21,0.3,1,1,0
+2023-2,NI0330,Gestión de la CSG 1,Escuela de Administración,0,0,39.0,0.0,35,0.0,1,1,0
+2022-2,MU0315,Coro 1,Escuela de Artes y Humanidades,0,0,0.0,0.2,2,0.97,1,1,1
+2023-2,HL0333,Literaturas de No Ficción,Escuela de Artes y Humanidades,0,0,8.0,0.0,6,0.83,1,1,0
+2023-1,IC0815,Economía y Coyuntura,E Ciencias Aplic e Ingeniería,0,0,20.0,0.0476,18,0.49,1,1,0
+2024-2,IM0770,Sistemas de Información,E Ciencias Aplic e Ingeniería,0,0,5.0,0.0,5,0.38,1,1,0
+2022-1,DE0146,Derecho Internacional 2,Escuela de Derecho,0,0,0.0,0.0513,85,0.19,1,1,1
